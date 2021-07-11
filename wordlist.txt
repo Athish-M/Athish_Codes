@@ -1,6 +1,0 @@
-"python"
-"vizag"
-banglore
-mysore
-chennai
-pune
